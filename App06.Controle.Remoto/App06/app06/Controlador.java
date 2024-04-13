@@ -1,4 +1,4 @@
-package App06;
+package app06;
 
 public interface Controlador {
 	public abstract void ligar();
